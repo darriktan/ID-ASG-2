@@ -1,6 +1,6 @@
 Project Name: ID Assignment 1
 Name: Darrik Tan  S10208603
-Github link: 
+Github link: https://darriktan.github.io/id-asg-2/
 
 Design Process
 
