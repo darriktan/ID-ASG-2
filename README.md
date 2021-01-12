@@ -1,7 +1,9 @@
 Project Title
 
 ID Assignment 2
+
 Name: Darrik Tan  S10208603
+
 Github link: https://darriktan.github.io/id-asg-2/
 
 Getting Started
@@ -27,10 +29,12 @@ However, I did not add it in as i was incapable of doing so.
 Built With
 
 AdobeXD - Wireframing
+
 Visual Studio Code - Coding
 
 Acknowledgments
 References/Inspirations
 
 https://www.w3schools.com/
+
 ID CA Random User
