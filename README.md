@@ -40,4 +40,4 @@ Visual Studio Code - Coding<p>
 <h2>References/Inspirations</h2>
 
 <p>https://www.w3schools.com/</p>
-<p>ID CA Random User</p>
+<p>https://repl.it/@malcolmyam/wk08-ca-randomuser</p>
