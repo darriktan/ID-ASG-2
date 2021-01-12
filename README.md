@@ -1,8 +1,8 @@
 <h1>Project Title</h1>
 
-<p>ID Assignment 2
-Name: Darrik Tan  S10208603
-Github link: https://darriktan.github.io/id-asg-2/</p>
+<p>ID Assignment 2</p>
+<p>Name: Darrik Tan  S10208603</p>
+<p>Github link: https://darriktan.github.io/id-asg-2/</p>
 
 
 <h1>Getting Started</h1>
@@ -40,5 +40,4 @@ Visual Studio Code - Coding<p>
 <h2>References/Inspirations<h2>
 
 <p>https://www.w3schools.com/
-
 ID CA Random User</p>
