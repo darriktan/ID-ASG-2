@@ -37,7 +37,7 @@ Visual Studio Code - Coding<p>
 
 <h1>Acknowledgments</h1>
 
-<h2>References/Inspirations<h2>
+<h2>References/Inspirations</h2>
 
-<p>https://www.w3schools.com/
-ID CA Random User</p>
+<p>https://www.w3schools.com/</p>
+<p>ID CA Random User</p>
